@@ -61,13 +61,13 @@ Complete testing of streaming scenarios
 
 🗂️ Repository Structure
 /kafka-azure-project
-│
-├── kafka-setup/           # Kafka & Zookeeper installation scripts and configs
-├── azure-vm-config/       # Azure VM setup guides, network rules, and commands
-├── python-apps/           # Producer and consumer Python applications
-├── databricks/            # Notebooks for processing streamed data
-├── data-lake/             # Sample data and ingestion outputs
-└── docs/                  # Architecture diagrams, notes, references
+- │
+- ├── kafka-setup/           # Kafka & Zookeeper installation scripts and configs
+- ├── azure-vm-config/       # Azure VM setup guides, network rules, and commands
+- ├── python-apps/           # Producer and consumer Python applications
+- ├── databricks/            # Notebooks for processing streamed data
+- ├── data-lake/             # Sample data and ingestion outputs
+- └── docs/                  # Architecture diagrams, notes, references
 
 🔧 Tech Stack
 
