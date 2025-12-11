@@ -1,0 +1,3 @@
+I have used Ubuntu 22.04 LTS or a later version on the Virtual Machine that I have created in Azure.
+I have suspicious opinion that earlier versions may encounter issues when installing certain Python Libraries like confluent_kafka.
+Due to compatibility problems. I have picked up the latest Ubuntu at the time of this personal project.
