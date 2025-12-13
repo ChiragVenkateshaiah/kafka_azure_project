@@ -71,7 +71,7 @@ Complete testing of streaming scenarios
 
 🔧 Tech Stack
 
-Apache Kafka (KRaft/Zookeeper)
+Apache Kafka (Zookeeper)
 
 Microsoft Azure (VMs, Networking, ADLS Gen2)
 
